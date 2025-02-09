@@ -1,8 +1,8 @@
 <div align='center'>
 
-  <h1>Nhat Nguyen</h1>
+  <h1>Peter Tran</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nhat+Nguyen+👋;Junior+Software+Engineer+👨‍💻;Reseacher+👨‍💻;Computer+Science+Student+@+UNSW)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Peter+Tran+👋;Junior+Software+Engineer+👨‍💻;Reseacher+👨‍💻;Computer+Science+Student+@+UNSW)](https://git.io/typing-svg)
 
 </div>
 
